@@ -1,0 +1,7 @@
+{
+  "/oauth/*": {
+    "target": "http://localhost",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
